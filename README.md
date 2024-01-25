@@ -6,7 +6,7 @@ Credit to Brainxyz for the inspiration and guidance of his video found [here](ht
 The entire project, along with pictures and videos, can be found on my [Behance](https://www.behance.net/gallery/183196423/Life-A-Particle-Simulation-Hackathon-Project).
 
 ## At a glance
-This is a simulation of 3-4 different types of particles interaction based on a simple set of rules. They seem to have emergent properties, exhibiting complex life-like behaviors that change depending on the rules. Below are some screenshots of some of the presets, but I highly encourage checking out the videos on Behance.
+This is a simulation of 3-4 different types of particles interaction based on a simple set of rules. They seem to have emergent properties, exhibiting complex life-like behaviors that change depending on the rules. Below are some screenshots of some of the presets, but I strongly encourage checking out the videos on Behance.
 
 ![A screenshot of one of the presets of rules for the particle simulation](./Life-Screenshot1.png)
 
