@@ -7,4 +7,5 @@ The entire project, along with pictures and videos, can be found on my [Behance]
 
 ## At a glance
 This is a simulation of 3-4 different types of particles interaction based on a simple set of rules. They seem to have emergent properties, exhibiting complex life-like behaviors that change depending on the rules. Below is a screenshot of one of the presets, but I highly encourage you to check out the videos on Behance.
+
 ![A screenshot of one of the presets of rules for the particle simulation](./Life-Screenshot.png)
